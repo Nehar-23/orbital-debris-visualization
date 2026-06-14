@@ -1,0 +1,7 @@
+# Claude Code local settings (machine-specific permissions)
+.claude/
+
+# Windows / shell junk
+*.stackdump
+Thumbs.db
+.DS_Store
