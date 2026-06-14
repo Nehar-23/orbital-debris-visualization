@@ -8,3 +8,11 @@ Thumbs.db
 
 # Marketing/launch assets (not part of the app)
 linkedin post/
+
+# Never commit secrets / recovery codes
+recovery-codes.txt
+*recovery*.txt
+*.secret
+*.key
+.env
+.env.*
